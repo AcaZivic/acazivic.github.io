@@ -169,8 +169,6 @@ header li.dropdown a{
 }
 #image1{
     background-image: url("../img/imgAbout.jpg");
-    /* box-shadow: 5px 5px 5px #523A28; */
-    /* box-shadow: 2px 5px 17px 5px rgba(82,58,40,0.79); */
 }
 .medium-image{
     width: 100%;
@@ -294,11 +292,9 @@ header li.dropdown a{
 }
 #image2{
     background-image: url("../img/hilandar.jpg");
-    /* box-shadow: 15px 10px 5px #523A28; */
 }
 #image3{
     background-image: url("../img/ZivotSvetiSava.jpg");
-    /* box-shadow: 15px 10px 5px #523A28; */
 }
 /* End heritage */
 /* Start footer  */
@@ -470,7 +466,7 @@ textarea{
     border: none;
     box-shadow: 1px 1px 4px #523A28;
     background-color: rgba(50, 30, 30, 0.08);
-    border: 1px solid #523A28;
+    border: none;
     font-weight: 400;
     transition-duration: 0.5s;
 }
@@ -484,7 +480,7 @@ input[type="text"],input[type="email"]{
     line-height: 30px; 
     background-color: rgba(50, 30, 30, 0.08);
     box-shadow: 1px 1px 4px #523A28;
-    border: 1px solid #523A28;
+    border: none;
     padding-left: 5px;
     transition-duration: 0.3s;
 }
