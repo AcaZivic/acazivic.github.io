@@ -90,8 +90,8 @@ header li.dropdown a{
     display: block;
 }
 .dropdown-content a:hover{
-    color: #f5f5f5;
-    background-color:#523A28;
+    color: #523A28;
+    background-color:rgba(82, 58, 40, 0.50);
 }
 .active{
     color: #f5f5f5;
@@ -168,7 +168,8 @@ header li.dropdown a{
 }
 #image1{
     background-image: url("../img/imgAbout.jpg");
-    box-shadow: 15px 10px 5px #523A28;
+    /* box-shadow: 5px 5px 5px #523A28; */
+    /* box-shadow: 2px 5px 17px 5px rgba(82,58,40,0.79); */
 }
 .medium-image{
     width: 100%;
@@ -292,11 +293,11 @@ header li.dropdown a{
 }
 #image2{
     background-image: url("../img/hilandar.jpg");
-    box-shadow: 15px 10px 5px #523A28;
+    /* box-shadow: 15px 10px 5px #523A28; */
 }
 #image3{
     background-image: url("../img/ZivotSvetiSava.jpg");
-    box-shadow: 15px 10px 5px #523A28;
+    /* box-shadow: 15px 10px 5px #523A28; */
 }
 /* End heritage */
 /* Start footer  */
@@ -461,7 +462,7 @@ form table{
     text-align: center;
 }
 textarea{
-    width: 100%;
+    width: 95%;
     height: 160px;
     padding-top: 10px;
     padding-left: 10px;
@@ -569,7 +570,7 @@ input[type="submit"]:hover{
 /* Start material heritage */
 a.active2{
     color: #f5f5f5;
-    background-color:#523A28;
+    background-color:rgba(82, 58, 40, 0.20);
 }
 #image10{
     background-image: url("../img/Materijalno1.jpg");
