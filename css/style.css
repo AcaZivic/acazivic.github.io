@@ -503,9 +503,8 @@ input[type="submit"]{
     transition-duration: 0.3s;
 }
 input[type="submit"]:hover{
-    color: #f5f5f5;
-    background-color: #523A28;
-    transform: scale(1.05);
+    background-color: rgba(50, 30, 30, 0.20);
+    transform: scale(1.04);
 }
 .btCenter{
     text-align: center;
@@ -538,7 +537,6 @@ input[type="submit"]:hover{
 }
 .region1.com{
     height: auto;
-    /* border: 1px solid #523A28; */
     box-shadow: 3px 3px 3px #523A28;
     background-color: rgba(50, 30, 30, 0.08);
 }
