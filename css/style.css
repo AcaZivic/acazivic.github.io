@@ -449,13 +449,18 @@ figcaption{
     color: #f5f5f5;
     font-weight: 300;
 }
-legend{
+form h3{
+    text-align: center;
     font-weight: bold;
+}
+form{
+    margin-top: 32px;
 }
 form table{
     width: 85%;
     height: 330px;
     margin: 50px auto;
+    margin-top: 20px;
     text-align: center;
 }
 textarea{
@@ -489,7 +494,7 @@ input[type="text"]:focus,input[type="email"]:focus,textarea:focus{
 }
 input[type="submit"]{
     background-color: rgba(50, 30, 30, 0.08);
-    border: 1px solid #523A28;
+    border: none;
     box-shadow:1px 1px 3px #523A28;
     padding:8px 28px;
     font-weight: bold;
