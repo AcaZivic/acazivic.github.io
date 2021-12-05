@@ -177,14 +177,14 @@ header li.dropdown a{
     background-position: center;
     box-shadow: 2px 2px 20px #523A28;
 }
-#verline{
+.verline{
     float:left;
     width:1%;
     background-color: #523A28;
     height: 550px;
     margin: 0% 4.5%;
 }
-#verline div{
+.verline div{
     width: 90px;
     padding: 10px 0px;
     background-color: #523A28;
@@ -193,7 +193,7 @@ header li.dropdown a{
     top: 253px;
     margin: 0px -39px;
 }
-#verline div p{
+.verline div p{
     color: #FFD700;
     font-size: 1.2em;
 }
