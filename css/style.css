@@ -126,7 +126,7 @@ header li.dropdown a{
     top: 45%;
     margin: 0px auto;
 	animation-name: flyIn;
-	animation-duration: 4s;
+	animation-duration: 3s;
 }
 #textLarge{
 	float:left;
@@ -168,7 +168,7 @@ header li.dropdown a{
     height: 550px;
 }
 #image1{
-    background-image: url("../img/imgAbout.jpg");
+    background-image: url("../img/imgOnama.jpg");
 }
 .medium-image{
     width: 100%;
@@ -291,10 +291,10 @@ header li.dropdown a{
     width: 59%;
 }
 #image2{
-    background-image: url("../img/hilandar.jpg");
+    background-image: url("../img/imgHilandar.jpg");
 }
 #image3{
-    background-image: url("../img/ZivotSvetiSava.jpg");
+    background-image: url("../img/imgŽivotSvetiSava.jpg");
 }
 /* End heritage */
 /* Start footer  */
@@ -358,7 +358,7 @@ footer #copy p{
     background-color: #F5F5F5; 
 }
 #image4{
-    background-image: url("../img/aboutMe.JPG");
+    background-image: url("../img/imgOmeni.jpg");
 }
 @keyframes flyIn2 {
     0%  {opacity:0;}
@@ -435,7 +435,7 @@ figcaption{
 .whiteBox.slice{
     height:150px;
     text-align: center;
-    background-image: url("../img/imgSlice1.png");
+    background-image: url("../img/imgBeliAnđeo.png");
     background-position: 0% 20%;
     background-size: cover;
 }
@@ -512,10 +512,10 @@ input[type="submit"]:hover{
 /* End contact */
 /* Start project */
 #image6{
-    background-image: url("../img/Project1.jpg");
+    background-image: url("../img/imgEkipaVeronauka.jpg");
 }
 #image7{
-    background-image: url("../img/Project2.jpg");
+    background-image: url("../img/imgEkipaKulturnaBaština.jpg");
 }
 .imgGal.big{
     width: 30%;
@@ -549,10 +549,10 @@ input[type="submit"]:hover{
     box-shadow: 2px 2px 5px #523A28;
 }
 #image8{
-    background-image: url("../img/imgMan.jpg");
+    background-image: url("../img/imgMuškarac.jpg");
 }
 #image9{
-    background-image: url("../img/imgWoman.png");
+    background-image: url("../img/imgŽena.png");
 }
 .txtCom{
     width: calc(100% - 150px);
@@ -574,18 +574,18 @@ a.active2{
     background-color:rgba(30, 30, 30, 0.20);
 }
 #image10{
-    background-image: url("../img/Materijalno1.jpg");
+    background-image: url("../img/imgEkipaMileševo.jpg");
 }
 #image11{
-    background-image: url("../img/Materijalno2.jpg");
+    background-image: url("../img/imgTumane.jpg");
 }
 /* End material heritage */
 /* Start immaterial heritage */
 #image12{
-    background-image: url("../img/Nematerijalno1.jpg");
+    background-image: url("../img/imgBiblija.jpg");
 }
 #image13{
-    background-image: url("../img/Nematerijalno2.jpg");
+    background-image: url("../img/imgBiblijaSadržaj.jpg");
 }
 .txtCom.cite{
     width: 100%;
