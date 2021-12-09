@@ -512,7 +512,10 @@ input[type="submit"]:hover{
     background-image: url("../img/imgEkipaVeronauka.jpg");
 }
 #image7{
-    background-image: url("../img/imgEkipaKulturnaBaština.jpg");
+    background-image: url("../img/icon.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-shadow: none;
 }
 .imgGal.big{
     width: 30%;
