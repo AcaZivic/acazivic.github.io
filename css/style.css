@@ -102,7 +102,7 @@ header li.dropdown a{
 #cover{
     position: relative;
     width: 100%;
-    background-image: url(../img/HramSava.jpg);
+    background-image: url("../img/HramSava.jpg");
     height: 930px;
     background-size: cover;
     background-position: 50% 32%;
